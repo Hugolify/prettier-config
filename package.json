@@ -15,5 +15,8 @@
   "homepage": "https://github.com/hugolify/prettier-config#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier-plugin-go-template": "^0.0.15"
   }
 }
