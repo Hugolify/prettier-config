@@ -1,6 +1,6 @@
 {
   "name": "@hugolify/prettier-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Hugolify Prettier config",
   "main": "index.json",
   "repository": "git@github.com:hugolify/prettier-config.git",
