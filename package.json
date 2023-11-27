@@ -1,0 +1,9 @@
+{
+  "name": "@hugolify/prettier-config",
+  "version": "0.0.0",
+  "description": "Hugolify Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:hugolify/prettier-config.git",
+  "author": "Arthaud Proust <proust@arthaud.dev>",
+  "license": "MIT"
+}
