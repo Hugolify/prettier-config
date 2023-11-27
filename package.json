@@ -3,7 +3,17 @@
   "version": "0.1.0",
   "description": "Hugolify Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:hugolify/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hugolify/prettier-config.git"
+  },
   "author": "Arthaud Proust <proust@arthaud.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugolify/prettier-config/issues"
+  },
+  "homepage": "https://github.com/hugolify/prettier-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
