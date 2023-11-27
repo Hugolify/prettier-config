@@ -1,22 +1,22 @@
 {
-  "name": "@hugolify/prettier-config",
-  "version": "0.2.1",
+  "author": "Arthaud Proust <proust@arthaud.dev>",
+  "bugs": {
+    "url": "https://github.com/hugolify/prettier-config/issues"
+  },
+  "dependencies": {
+    "prettier-plugin-go-template": "^0.0.15"
+  },
   "description": "Hugolify Prettier config",
+  "homepage": "https://github.com/hugolify/prettier-config#readme",
+  "license": "MIT",
   "main": "index.json",
+  "name": "@hugolify/prettier-config",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/hugolify/prettier-config.git"
   },
-  "author": "Arthaud Proust <proust@arthaud.dev>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hugolify/prettier-config/issues"
-  },
-  "homepage": "https://github.com/hugolify/prettier-config#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "prettier-plugin-go-template": "^0.0.15"
-  }
+  "version": "0.2.1"
 }
