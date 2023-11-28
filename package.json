@@ -3,9 +3,6 @@
   "bugs": {
     "url": "https://github.com/hugolify/prettier-config/issues"
   },
-  "dependencies": {
-    "prettier-plugin-go-template": "^0.0.15"
-  },
   "description": "Hugolify Prettier config",
   "homepage": "https://github.com/hugolify/prettier-config#readme",
   "license": "MIT",
